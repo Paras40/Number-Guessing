@@ -1,2 +1,3 @@
-# Email_Slicer
-I have created a tool which will take an email id as input and will perform slicing operations on it to return the username and the domain of the email id.
+#Guess the number
+The program generates a random number from 1 to 10, or 1 to 100 any range that is specified and the user must guess the number. 
+Every time a user’s guess is wrong they are prompted with more hints to make it easier for them to guess the number.
